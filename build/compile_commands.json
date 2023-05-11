@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/summer/Desktop/LCR2/build",
+  "command": "/usr/bin/g++  -I/home/summer/Desktop/LCR2/src -g -std=gnu++14 -o CMakeFiles/LCR2.dir/src/graph.cpp.o -c /home/summer/Desktop/LCR2/src/graph.cpp",
+  "file": "/home/summer/Desktop/LCR2/src/graph.cpp"
+},
+{
+  "directory": "/home/summer/Desktop/LCR2/build",
+  "command": "/usr/bin/g++  -I/home/summer/Desktop/LCR2/src -g -std=gnu++14 -o CMakeFiles/LCR2.dir/src/main.cpp.o -c /home/summer/Desktop/LCR2/src/main.cpp",
+  "file": "/home/summer/Desktop/LCR2/src/main.cpp"
+}
+]

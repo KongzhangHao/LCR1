@@ -1,0 +1,5 @@
+/home/summer/Desktop/LCR2/build/CMakeFiles/LCR2.dir
+/home/summer/Desktop/LCR2/build/CMakeFiles/package.dir
+/home/summer/Desktop/LCR2/build/CMakeFiles/package_source.dir
+/home/summer/Desktop/LCR2/build/CMakeFiles/edit_cache.dir
+/home/summer/Desktop/LCR2/build/CMakeFiles/rebuild_cache.dir

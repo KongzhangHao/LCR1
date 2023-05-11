@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/LCR.dir/src/graph.cpp.o CMakeFiles/LCR.dir/src/main.cpp.o -o LCR 
